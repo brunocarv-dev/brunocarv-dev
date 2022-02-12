@@ -15,9 +15,9 @@
 
 <div>
   <a href="https://github.com/brunocarv-dev">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=brunocarv-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=brunocarv-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   
-    <br>
+  <br>
     
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocarv-dev&layout=compact&langs_count=7&theme=react" />
 
