@@ -2,6 +2,10 @@
 
 <br>
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=brunocarv-dev&repo=brunocarv-dev&theme=react)](https://github.com/brunocarv-dev/brunocarv-dev1)
+
+<br>
+
   <a href="https://www.linkedin.com/in/bruno-carv-tryber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br>
@@ -13,10 +17,6 @@
 
 </div>
  
-<br>
-  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=brunocarv-dev&repo=brunocarv-dev&theme=react)](https://github.com/brunocarv-dev/brunocarv-dev1)
-
 <br>
 
 <div  align="center"> 
