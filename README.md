@@ -1,5 +1,11 @@
 <h1> Hi! My name is Bruno Carvalho. </h1>
 
+<br>
+
+  <a href="https://www.linkedin.com/in/bruno-carv-tryber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<br>
+
 <div>
   <a href="https://github.com/brunocarv-dev">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=brunocarv-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -8,8 +14,6 @@
 </div>
   
  <br>
-  
-  <a href="https://www.linkedin.com/in/bruno-carv-tryber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/brunocarv-dev/brunocarv-dev/blob/output/github-contribution-grid-snake.svg)
  
